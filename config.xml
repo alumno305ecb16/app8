@@ -7,10 +7,10 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>Programa de Estudios de Programacion</name>
+    <name>Revolucion mexicana</name>
 
     <description>
-       Archivo que configura mis aplicaciones
+       Historia Revolucion mexicana
     </description>
 
     <preference name="phonegap-version" value="3.1.0" />
